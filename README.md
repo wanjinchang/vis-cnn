@@ -1,7 +1,7 @@
 Visualising Image Classification Models and Saliency Maps
 ========
 
-Implementation in chainer. Original paper is [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](http://arxiv.org/pdf/1312.6034.pdf).
+Implementation by Chainer. Original paper is [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](http://arxiv.org/pdf/1312.6034.pdf).
 
 # Requirements
 
